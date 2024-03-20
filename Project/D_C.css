@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.clock {
+    font-size: 150px;
+    width: 800px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: black;
+
+   
+}
+
+div {
+
+    text-align: center;
+    font-size: 100px;
+    color: red;
+    margin: auto;
+
+
+}
+
+h3 {
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+    color: darkblue;
+    margin: auto;
+  }
